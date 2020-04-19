@@ -3,15 +3,45 @@
 
 Application helps to fetch covid details from all the countries specifically app fetches data from all the states in india.
 
+
+
+
+## [Download Apk Here](https://install.appcenter.ms/users/kiran.kumarb/apps/covid-19-feeds-android/distribution_groups/public)
+
+
+
+
+
 ## Platfrom Used
 
 [Xamarin.forms](https://dotnet.microsoft.com/apps/xamarin)
 
 
 
+
+
+## Plugins  Used
+1. [Pancake View](https://github.com/sthewissen/Xamarin.Forms.PancakeView)
+2. [Rg Popup Plugin](https://github.com/rotorgames/Rg.Plugins.Popup)
+3. [Xamarin Essentials](https://docs.microsoft.com/en-us/xamarin/essentials/)
+4. [FFimage loading](https://github.com/luberda-molinet/FFImageLoading)
+5. [Air bnb Lottie](https://github.com/Baseflow/LottieXamarin)
+
+
+
+## Used Information from WHO [check here](https://www.who.int/)
+
+
+
+
+
+
 ## Apis Used
 1. [Novel Covid API](https://github.com/novelcovid/api)
 2. [Covid India API](https://github.com/covid19india/api)
+ 
+ 
+ 
  
  
  ## SCREEN SHOTS
